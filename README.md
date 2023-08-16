@@ -22,7 +22,9 @@ This product is used from the command line or Terminal with Nodejs. This applica
 
 Repo: https://github.com/HarryFelty/README-Generator
 
-https://watch.screencastify.com/v/xRtSY8bkoVYeyQZIeuNw
+Sample README: https://harryfelty.github.io/README-Generator/
+
+README Walkthrough: https://watch.screencastify.com/v/xRtSY8bkoVYeyQZIeuNw
 
 ![README-Generator-Walkthrough](https://github.com/HarryFelty/README-Generator/assets/125701349/fb75913e-1e9d-4823-a7e9-b6b6673309f7)
 
